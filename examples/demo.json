@@ -1,0 +1,12 @@
+{
+  "unit": "degrees",
+  "counterfactual_minimum_std": 1,
+  "joints": [
+    {
+      "id": "idle",
+      "mean": 0,
+      "std": 1.48e-06,
+      "live_value": 0.2
+    }
+  ]
+}
